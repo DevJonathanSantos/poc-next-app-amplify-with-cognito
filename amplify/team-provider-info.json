@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pocnextappamplifywit-dev-308c1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::869088799790:role/amplify-pocnextappamplifywit-dev-308c1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::869088799790:role/amplify-pocnextappamplifywit-dev-308c1-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pocnextappamplifywit-dev-308c1-deployment",
+      "UnauthRoleName": "amplify-pocnextappamplifywit-dev-308c1-unauthRole",
+      "StackName": "amplify-pocnextappamplifywit-dev-308c1",
+      "StackId": "arn:aws:cloudformation:us-east-1:869088799790:stack/amplify-pocnextappamplifywit-dev-308c1/904754c0-4424-11ef-a06a-0e01479a4f1f",
+      "AmplifyAppId": "d2602rtg4oluu9"
+    },
+    "categories": {
+      "auth": {
+        "pocnextappamplifywitcfbde56f": {}
+      }
+    }
+  }
+}
