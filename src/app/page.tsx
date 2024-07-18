@@ -1,11 +1,9 @@
-import { Amplify } from "aws-amplify";
+"use client";
 import type { WithAuthenticatorProps } from "@aws-amplify/ui-react";
 import { withAuthenticator } from "@aws-amplify/ui-react";
 import "@aws-amplify/ui-react/styles.css";
-import config from "../aws-exports";
-Amplify.configure(config);
 
-export function App({ signOut, user }: WithAuthenticatorProps) {
+export function Home({ signOut, user }: WithAuthenticatorProps) {
   return (
     <>
       <h1>Hello {user?.username}</h1>
@@ -14,4 +12,4 @@ export function App({ signOut, user }: WithAuthenticatorProps) {
   );
 }
 
-export default withAuthenticator(App);
+export default withAuthenticator(Home);

@@ -1,19 +1,19 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-pocnextappamplifywit-dev-308c1-authRole",
-      "UnauthRoleArn": "arn:aws:iam::869088799790:role/amplify-pocnextappamplifywit-dev-308c1-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::869088799790:role/amplify-pocnextappamplifywit-dev-308c1-authRole",
+      "AuthRoleName": "amplify-pocnextappamplifywit-dev-09195-authRole",
+      "UnauthRoleArn": "arn:aws:iam::869088799790:role/amplify-pocnextappamplifywit-dev-09195-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::869088799790:role/amplify-pocnextappamplifywit-dev-09195-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-pocnextappamplifywit-dev-308c1-deployment",
-      "UnauthRoleName": "amplify-pocnextappamplifywit-dev-308c1-unauthRole",
-      "StackName": "amplify-pocnextappamplifywit-dev-308c1",
-      "StackId": "arn:aws:cloudformation:us-east-1:869088799790:stack/amplify-pocnextappamplifywit-dev-308c1/904754c0-4424-11ef-a06a-0e01479a4f1f",
-      "AmplifyAppId": "d2602rtg4oluu9"
+      "DeploymentBucketName": "amplify-pocnextappamplifywit-dev-09195-deployment",
+      "UnauthRoleName": "amplify-pocnextappamplifywit-dev-09195-unauthRole",
+      "StackName": "amplify-pocnextappamplifywit-dev-09195",
+      "StackId": "arn:aws:cloudformation:us-east-1:869088799790:stack/amplify-pocnextappamplifywit-dev-09195/63032040-44ea-11ef-bbbd-0afff82b45d3",
+      "AmplifyAppId": "d2jjewffc35xt0"
     },
     "categories": {
       "auth": {
-        "pocnextappamplifywitcfbde56f": {}
+        "pocnextappamplifywit1c3f39ae": {}
       }
     }
   }

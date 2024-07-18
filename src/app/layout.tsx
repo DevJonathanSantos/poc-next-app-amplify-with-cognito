@@ -4,8 +4,9 @@ import "./globals.css";
 
 import { Amplify } from "aws-amplify";
 import awsExports from "../aws-exports";
+import config from "../amplifyconfiguration.json";
 
-Amplify.configure({ ...awsExports });
+Amplify.configure(awsExports);
 
 const inter = Inter({ subsets: ["latin"] });
 
